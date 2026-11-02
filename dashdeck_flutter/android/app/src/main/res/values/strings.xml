@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tap_service_description">Lets you tap the car screen to control the app DashDeck is mirroring from your phone. DashDeck only sends taps; it doesn\'t read anything on your screen.</string>
+</resources>
